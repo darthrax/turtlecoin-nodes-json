@@ -183,6 +183,13 @@
       "cache": false
     },
     {
+      "name": "MYTB Turtle Node - India",
+      "url": "trtl.mytb.in",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Node Turtle Coin EU",
       "url": "nodeturtlecoineu.ddns.net",
       "port": 5000,
